@@ -13,4 +13,4 @@ and
 - (NSDate *)dateToTimeZone:(NSTimeZone *)toTimeZone
 ```
 
-More information in the function documentation.
+More information in the method documentation.
