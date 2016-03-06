@@ -3,6 +3,13 @@ NSDate-timezones
 
 NSDate category adding methods for converting between time zones
 
+# Install
+Either manually add the files to your project or install using CocoaPods. Add NSDate+timezones to your Podfile like so:
+```
+pod 'NSDate+timezones'
+```
+
+# Usage
 ```
 - (NSDate *)dateToTimeZone:(NSTimeZone *)toTimeZone fromTimeZone:(NSTimeZone *)fromTimeZone
 ```
