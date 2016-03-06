@@ -10,6 +10,7 @@ pod 'NSDate+timezones'
 ```
 
 # Usage
+Convert between timezones using the methods:
 ```
 - (NSDate *)dateToTimeZone:(NSTimeZone *)toTimeZone fromTimeZone:(NSTimeZone *)fromTimeZone
 ```
